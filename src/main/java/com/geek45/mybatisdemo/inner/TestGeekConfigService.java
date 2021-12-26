@@ -13,4 +13,6 @@ package com.geek45.mybatisdemo.inner;
 public interface TestGeekConfigService {
 
     void test();
+
+    void testSql();
 }
